@@ -1,0 +1,6 @@
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\bin\Debug\MuzikMarket_Ell.dll
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\bin\Debug\MuzikMarket_Ell.pdb
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\obj\Debug\MuzikMarket_Ell.csproj.AssemblyReference.cache
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\obj\Debug\MuzikMarket_Ell.csproj.CoreCompileInputs.cache
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\obj\Debug\MuzikMarket_Ell.dll
+C:\Users\SuffaTech\Desktop\Mevcut\MuzikMarket\MuzikMarket_Ell\obj\Debug\MuzikMarket_Ell.pdb
